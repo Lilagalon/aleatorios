@@ -1,0 +1,12 @@
+
+html {
+   
+}
+body {
+    background: url('img/fotofundo2.png') no-repeat center center fixed; 
+    background-size: cover;
+  }
+h2 {
+    color: rgb(216, 108, 202);
+
+}
